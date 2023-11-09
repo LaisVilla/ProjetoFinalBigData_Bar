@@ -35,7 +35,76 @@ https://app.powerbi.com/view?r=eyJrIjoiNTgzMjdhNGItMzZlZi00N2U2LTkyNTgtYmQ2ZjFiM
 <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" height="80px"/>
 </p>
 
-<h2> 🙋 Grupo - Spark Girls</h2>
+<h2> 🙋 Grupo </h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Dani-Olv">
+        <img src="https://avatars.githubusercontent.com/u/132173215?v=4" width="100px;" alt="Foto Danielle Oliveira"/><br>
+        <sub>
+          <b>Danielle Oliveira</b>
+        </sub><br>
+         <a href="https://www.linkedin.com/in/danielle-oliveira-500b07146/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rafael-Catarino">
+        <img src="https://avatars.githubusercontent.com/u/88910529?v=4" width="100px;" alt="Foto Rafael Catarino"/><br>
+        <sub>
+          <b>Rafael Catarino</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/rafael-dos-santos-catarino-ab9414206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LaisVilla">
+        <img src="https://avatars.githubusercontent.com/LaisVilla" width="100px;" alt="Foto Lais Villa"/><br>
+        <sub>
+          <b>Lais Villa</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/lais-villa-205614127/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gsoares28">
+        <img src="https://avatars.githubusercontent.com/u/145174123?v=4" width="100px;" alt="Foto Gustavo Oliveira"/><br>
+        <sub>
+          <b>Gustavo Oliveira</b>
+        </sub><br>
+        <a href="www.linkedin.com/in/gustavo-soares-16310b1a2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Paulabeatriz09">
+        <img src="https://avatars.githubusercontent.com/Paulabeatriz09" width="100px;" alt="Foto Paula Raposo"/><br>
+        <sub>
+          <b>Paula Raposo</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/paulabeatrizrocha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RaquelZanatta">
+        <img src="https://avatars.githubusercontent.com/RaquelZanatta" width="100px;" alt="Foto Raquel Zanatta"/><br>
+        <sub>
+          <b>Raquel Zanatta</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/raquel-elias-zanatta-banuth-717188145"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ReisRaquel">
+        <img src="https://avatars.githubusercontent.com/ReisRaquel" width="100px;" alt="Foto Raquel Reis"/><br>
+        <sub>
+          <b>Raquel Reis</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/raquel-reis-da-silva-7765421aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    </tr>
+</table>
+
 
 
 
