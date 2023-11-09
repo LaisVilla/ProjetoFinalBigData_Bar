@@ -27,11 +27,16 @@ https://app.powerbi.com/view?r=eyJrIjoiNTgzMjdhNGItMzZlZi00N2U2LTkyNTgtYmQ2ZjFiM
 
 <h2>🛠 Tecnologias utilizadas:</h2>
 <p>
-<img src="" height="58px"/>
-<img src="" height="70px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png" height="80px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png" height="80px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Meet_icon_%282020%29.svg/1280px-Google_Meet_icon_%282020%29.svg.png" height="80px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" height="80px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="80px"/>
 <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" height="80px"/>
 </p>
+
+<h2> 🙋 Grupo - Spark Girls</h2>
+
 
 
 
