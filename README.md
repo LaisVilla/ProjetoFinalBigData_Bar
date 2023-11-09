@@ -1,4 +1,4 @@
-<h1>Projeto Big Data Bar</h1>
+<h1>Projeto Big Data Bar Mediterrâneo</h1>
 
 <h2>📝 Descrição:</h2>
 
