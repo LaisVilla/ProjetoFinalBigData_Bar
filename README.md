@@ -72,7 +72,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNTgzMjdhNGItMzZlZi00N2U2LTkyNTgtYmQ2ZjFiM
         <sub>
           <b>Gustavo Oliveira</b>
         </sub><br>
-        <a href="www.linkedin.com/in/gustavo-soares-16310b1a2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+        <a href="www.linkedin.com/in/gustavo-soares-16310b1a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
       </a>
     </td>
 </table>
