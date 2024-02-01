@@ -5,7 +5,7 @@
 <p>Repositório destinado ao versionamento compartilhado dos códigos referentes Projeto Extensionista na disciplina de Tópicos de Big Data em Python do <strong>Bar Mediterrâneo</strong> 
 
 Power Bi:
-https://app.powerbi.com/view?r=eyJrIjoiNTgzMjdhNGItMzZlZi00N2U2LTkyNTgtYmQ2ZjFiMTFiMTY0IiwidCI6IjIzNmIzMjk4LWYyMjUtNDQwMi1iOGMwLTY4OTZjNWNmZDQxNyJ9
+https://app.powerbi.com/view?r=eyJrIjoiMTZjNDkyYTAtNDI0YS00YjQyLWE0MDEtM2M4MDZiYTY5MTc1IiwidCI6IjBiNGQ2OWM0LTYyNGMtNGE0YS04MjI3LTlmZjY2Y2I5YTFiZSJ9
 
 <h2>🎯 Objetivos:</h2>
 
